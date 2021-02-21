@@ -1,15 +1,12 @@
-package com.boraji.tutorial.hibernate;
+package com.cogent.tutorial.hibernate;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
-import com.boraji.tutorial.hibernate.entity.Customer;
+import com.cogent.tutorial.hibernate.entity.Customer;
 
-/**
- * @author imssbora
- */
 public class MainApp {
 
    private static final Logger logger = LogManager.getLogger(MainApp.class);

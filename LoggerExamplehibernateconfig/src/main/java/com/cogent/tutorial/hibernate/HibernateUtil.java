@@ -1,4 +1,4 @@
-package com.boraji.tutorial.hibernate;
+package com.cogent.tutorial.hibernate;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -12,7 +12,7 @@ import org.hibernate.boot.registry.StandardServiceRegistry;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Environment;
 
-import com.boraji.tutorial.hibernate.entity.Customer;
+import com.cogent.tutorial.hibernate.entity.Customer;
 
 public class HibernateUtil {
 
